@@ -8,7 +8,7 @@ To deploy this project, run:
 
 ### Clone the project using the command:
 sh
-git clone "https://github.com/NK19Coder/JustEase.git"
+git clone "https://github.com/piyush-p256/JustEase.git"
 
 
 ### Navigate to the project directory:
