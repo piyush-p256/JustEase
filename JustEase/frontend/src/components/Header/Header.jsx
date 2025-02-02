@@ -54,7 +54,7 @@ const Header = () => {
           {/*==============logo================= */}
       
       <div>
-        <img className='h-[150px] w-full' src={logo} alt="Logo" />
+        <img className='h-[250px] w-full' src={logo} alt="Logo" />
       </div>
 
 
